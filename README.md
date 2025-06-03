@@ -81,9 +81,9 @@ This project is a **Full-Stack Note-Taking Application** built using the **MERN 
 ## Web App Screenshots and UI:
 
 
-![Home Page](https://github.com/yourusername/MERN-Notes-App/assets/home-page.png)
+![Home Page](https://github.com/user-attachments/assets/05b25a04-32a1-49e7-857c-22e2f8ca0613)
 ![Note Detail](https://github.com/yourusername/MERN-Notes-App/assets/note-detail.png)
-![Create Note](https://github.com/yourusername/MERN-Notes-App/assets/create-note.png)
+![Create Note](https://github.com/user-attachments/assets/f40f9227-c783-4cc2-9785-d181045436b1)
 
 ---
 
